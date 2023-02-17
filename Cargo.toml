@@ -1,0 +1,9 @@
+[package]
+name = "volatile"
+version = "1.0.0"
+edition = "2021"
+description = "A small crate for volatile loads and stores, as used in the Vanadinite project."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
